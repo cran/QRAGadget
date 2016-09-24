@@ -1,0 +1,16 @@
+e37cedc28bc46e9555f4b3f70a92fdc6 *DESCRIPTION
+e3fc50a88d0a364313df4b21ef20c29e *LICENSE
+ff84bc6316d7cdba1c76b16f3b0f8b29 *NAMESPACE
+c0fe659f74cd6107d695b2b16a2867de *R/QRAGadget.R
+275512ece3b71a7ef02ad4de5ffc8b96 *R/tableinput.R
+0bef795312f11b47fbc2fb37b7d60bc4 *README.md
+d9e1b45a422990865d2b3dc1878f49d9 *inst/images/InputOutput.PNG
+a3f21fc1b41adb2f13daf361e11b7f71 *inst/images/Map2.PNG
+e8f19a4404cf7a409707d60dc9794dc8 *inst/images/map.PNG
+ca32fc0c699f671628b20d2cd85f57f4 *inst/images/preferences.PNG
+3ffb83f06fea02cc2dc6e415214023e5 *inst/images/raster.PNG
+9098c03cf0ea5c6974d4caf4fce91f0d *inst/rstudio/addins.dcf
+09e8dcc1a43e0ec5d44b96c90dc9c504 *inst/tableinput/tableinput.css
+65041b59bbf71a40aec9e1238aacf95a *inst/tableinput/tableinput.js
+db6e9d22c5ee308e646e6a58fcd63ca6 *man/QRAGadget.Rd
+b59148305931155ab3feb896bb3c25f7 *man/matrixInput.Rd
